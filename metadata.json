@@ -1,0 +1,6 @@
+{
+  "name": "OmniRecovery Forensic Suite",
+  "description": "Hardware diagnostic and low-level data recovery suite for mobile devices with unresponsive or damaged displays.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
